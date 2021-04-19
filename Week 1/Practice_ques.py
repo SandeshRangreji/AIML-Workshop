@@ -1,4 +1,5 @@
 # Sum of n numbers
+# additional objective: use range operator
 print("SUM OF n NUMBERS")
 n = 500
 i = 1
@@ -11,6 +12,7 @@ while c != n:
 print(sum_)
 
 # Sum of n even numbers
+# additional objective: use range operator
 print("SUM OF n EVEN NUMBERS")
 n = 50
 c = 0
@@ -23,6 +25,7 @@ while c != n:
 print(sum_)
 
 # Sum of n odd numbers
+# additional objective: use range operator
 print("SUM OF n ODD NUMBERS")
 n = 50
 c = 0
@@ -35,6 +38,7 @@ while c != n:
 print(sum_)
 
 # Reverse of a number
+# write code without using an arithmetic operator
 print("Reverse of a number")
 n = 4562
 rev = 0
@@ -47,6 +51,7 @@ while (n > 0):
 print(rev)
 
 # check if a number is palindrome or not
+# write code without using an arithmetic operator
 print("Check if a number is palindrome or not")
 n = 1221
 temp = n
